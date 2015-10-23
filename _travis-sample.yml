@@ -7,5 +7,5 @@ node_js:
   
 before_install:
   - "curl -L http://git.io/ejPSng | /bin/sh"
-  - "curl -L "
+  - "curl -L http://git.io/vW8YJ | /bin/sh"
   
